@@ -2,8 +2,8 @@
 
 ## Instructions
 
-– clone this repo to your machine
-– point chrome to the folder created after cloning (follow screenshot below)
+- clone this repo to your machine
+- point chrome to the folder created after cloning (follow screenshot below)
 
 ![guide png](./guide.png)
 
